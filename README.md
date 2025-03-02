@@ -3,7 +3,7 @@
 Convert Evernote `.enex` files into beautifully styled HTML with a **Table of Contents** and **individual note pages**.  
 
 ## 🚀 Features  
-- Extracts and converts Evernote `.enex` files to HTML.  
+- Parses and converts Evernote `.enex` files to HTML.  
 - Generates a **Table of Contents (ToC)** linking to individual notes.  
 - Preserves original filenames for easy reference.  
 - Uses **modern fonts & styling** for readability.  
